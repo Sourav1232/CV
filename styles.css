@@ -1,0 +1,23 @@
+body{
+  background-color:#96CEB4;
+}
+hr{
+  border-color:grey;
+  border-style:none;
+  border-top-style:dotted;
+  border-width:5px;
+  width:5%;
+}
+h1{
+  color:#146356;
+}
+h3{
+  color:#F36A7B;
+}
+table{
+  border-collapse: collapse;
+  border-color:inherit;
+}
+html{
+    font-family:Bradley Hand, cursive;
+}
